@@ -92,7 +92,7 @@ a {
 
 /* All Article Sections */
 
-.trending-article-title, h3.big-article-title, .newest-title, p.tagline{
+.trending-article-title, h3.big-article-title, .newest-title, p.tagline, h3.newest, h1.article-title {
         font-family: 'Titillium Web';
 }
 
