@@ -90,6 +90,12 @@ a {
 	top:15px;
 }
 
+/* All Article Sections */
+
+.trending-article-title, h3.big-article-title, .newest-title, p.tagline{
+        font-family: 'Titillium Web';
+}
+
 /* Trending */
 .container-trending{
 	margin:0 0 0 20px;
@@ -155,7 +161,6 @@ a {
 	width: 740px;
 }
 h3.big-article-title{
-	font-family: 'Titillium Web', sans-serif;
 	margin: 250px 0 0 0;
 	line-height: 70px;
 }
