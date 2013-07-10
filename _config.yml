@@ -6,3 +6,16 @@ rdiscount:
 baseurl:
 production_url : http://username.github.com/youngist/
 permalink: /:title
+prose:
+  metadata:
+    _posts:
+      - name: "categories"
+        field:
+          element: "hidden"
+          value:
+            - "post"
+      - name: "layout"
+        field:
+          element: "text"
+          label: "Layout"
+          value: "default"
